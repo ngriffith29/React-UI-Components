@@ -1,1 +1,16 @@
 /* All styles for your Card Components live here */
+.hi {
+   display: flex;
+   flex-wrap: wrap;
+   
+}
+
+a {
+   text-decoration: none;
+   color: grey;
+}
+
+a:hover {
+   text-decoration: none;
+   color: grey;
+}
